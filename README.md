@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Gugo-le</b>
+</h1>
 
-<!--
-**Gugo-le/Gugo-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요!! 구현승입니다
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Gugo!;I'm+a+student+Developer...;I'm+also+Learning+something...?;And+I'm+a+proud+Korean;Dokdo+is+Korean+territory!!!!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```python
+class Gugo():
+    
+  def __init__(self):
+    self.name = "Guhyunseung";
+    self.username = "Gugo-le";
+    self.age = "17";
+    self.location = "Hwesung, South Korea";
+    self.instagram = "guhyunseung_06";
+  
+  def __str__(self):
+    return self.name
+
+  if __name__ == '__main__':
+    me = Guhyunseung()
+```
+
+ [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guhyunseung_06/)](https://www.instagram.com/guhyunseung_06/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guhyunseung0718@gmail.com)](mailto:guhyunseung0718@gmail.com)
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+  ### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
+
