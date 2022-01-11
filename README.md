@@ -37,4 +37,4 @@ class Gugo():
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63bea670-a528-4d63-a37f-8f47e75d89ea/deploy-status)](https://app.netlify.com/sites/3-4forever/deploys)
