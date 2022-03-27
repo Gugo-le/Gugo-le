@@ -15,7 +15,7 @@ class Gugo():
     self.username = "Gugo-le";
     self.age = "17";
     self.location = "Hwaseong-si, South Korea";
-    self.instagram = "guhyunseung_06";
+    self.instagram = "starlike._.ghs";
   
   def __str__(self):
     return self.name
