@@ -24,7 +24,7 @@ class Gugo():
     me = Guhyunseung()
 ```
 
- [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guhyunseung_06/)](https://www.instagram.com/starlike._.ghs/)
+ [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/guhyunseung_06/)](https://www.instagram.com/_g.u.g.o_/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guhyunseung0718@gmail.com)](mailto:guhyunseung0718@gmail.com)
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
