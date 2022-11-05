@@ -38,3 +38,5 @@ class Gugo():
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugo-le&show_icons=true&theme=radical)
