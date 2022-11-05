@@ -40,3 +40,4 @@ class Gugo():
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugo-le&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugo-le&layout=compact)](https://github.com/Gugo-le/github-readme-stats)
