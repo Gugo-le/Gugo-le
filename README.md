@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20It's %20Gugo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=#1학년3반%20cutege&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20It's%20Gugo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=#1학년3반%20cutege&descAlignY=51&descAlign=62)
 
 <h1 align="center">
   <b>Gugo-le</b>
