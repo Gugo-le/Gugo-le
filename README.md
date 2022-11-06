@@ -42,7 +42,7 @@ class Gugo():
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugo-le&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugo-le&show_icons=true&theme=react)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGugo-le&count_bg=%2379C83D&title_bg=%23555555&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=_G.U.G.O_&edge_flat=false)](https://hits.seeyoufarm.com)
 
