@@ -47,9 +47,8 @@ class Gugo():
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Gugo-le&theme=react" alt="Gugo-le" />
 </p>
  
-<p align = "center">                                                                                                 
+                                                                                                
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugo-le&show_icons=true&theme=react)
-</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gugo-le&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
