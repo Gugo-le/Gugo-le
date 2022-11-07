@@ -42,7 +42,7 @@ class Gugo():
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
 
-### stats
+### Stats
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Gugo-le&theme=react" alt="Gugo-le" />
 </p>
