@@ -32,20 +32,8 @@ class Gugo():
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 ```python
-class Gugo():
-    
-  def __init__(self):
-    self.name = "Guhyunseung";
-    self.username = "Gugo-le";
-    self.age = "17";
-    self.location = "Hwaseong-si, South Korea";
-    self.instagram = "_g.u.g.o_"; # but I delected insta account
-  
-  def __str__(self):
-    return self.name
+def success(dedication, persistence, passion):
 
-  if __name__ == '__main__':
-    me = Guhyunseung()
 ```
 
   ### 🛠 &nbsp;Tech Stack
