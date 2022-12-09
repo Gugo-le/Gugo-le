@@ -26,10 +26,10 @@ class Gugo():
   if __name__ == '__main__':
     me = Guhyunseung()
     
-def success(dedication, persistence, passion):
-  dedication += 1
-  persistence += 1
-  passion = True
+  def success(dedication, persistence, passion):
+    dedication += 1
+    persistence += 1
+    passion = True
   
 ```
 
