@@ -27,11 +27,12 @@ class Gugo():
     me = Guhyunseung()
     
     
-    
+ class Success():
+ 
   def success(dedication, persistence, passion):
-    dedication += 1
-    persistence += 1
-    passion = True
+    dedication += 1 # dedicate yourself
+    persistence += 1 # be persistent
+    passion = True # have passion
     
     if passion == True:
       magic = dedication + persistence
