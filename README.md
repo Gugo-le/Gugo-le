@@ -40,7 +40,7 @@ class Gugo():
     
     else:
       magic = 0
-      return magin
+      return magic
   
 ```
 
