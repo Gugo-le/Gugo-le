@@ -27,7 +27,7 @@ class Gugo():
     me = Guhyunseung()
     
     
- class Success():
+class Success():
  
   def success(dedication, persistence, passion):
     dedication += 1 # dedicate yourself
