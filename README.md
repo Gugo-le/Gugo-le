@@ -16,10 +16,10 @@ class Gugo():
   def __init__(self):
     self.name = "Guhyunseung";
     self.username = "Gugo-le";
-    self.age = "17";
+    self.age = "18";
     self.location = "Hwaseong-si, South Korea";
-    self.instagram = "_g.u.g.o_"; # but I delected insta account
-  
+    self.goal = "Music and AI Research(2023)"
+    
   def __str__(self):
     return self.name
 
