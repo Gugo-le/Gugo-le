@@ -18,7 +18,6 @@ class Gugo():
     self.username = "Gugo-le";
     self.age = "18";
     self.location = "Hwaseong-si, South Korea";
-    self.goal = "Music and AI Research(2023)"
     
   def __str__(self):
     return self.name
