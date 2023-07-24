@@ -44,7 +44,7 @@ class Success():
 ```
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guhyunseung0718@gmail.com)](mailto:guhyunseung0718@gmail.com)
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/hongssup](https://www.instagram.com/dhdjoi_18/)"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/dhdjoi_18](https://www.instagram.com/dhdjoi_18/)"/></a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   ### 🛠 &nbsp;Tech Stack
