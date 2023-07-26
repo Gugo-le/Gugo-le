@@ -16,7 +16,7 @@ class Gugo():
   def __init__(self):
     self.name = "Guhyunseung";
     self.username = "Gugo-le";
-    self.age = "18";
+    self.age = "17";
     self.location = "Hwaseong-si, South Korea";
     
   def __str__(self):
