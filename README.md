@@ -5,7 +5,7 @@
   <b>Gugo-le</b>
 </h1>
 
-# 안녕하세요👋 구현승입니다
+# 안녕하세요👋 구현승입니다 ..// 수능치고, 대학가고 그 때 다시 돌아오겠습니다.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Gugo!;I'm+a+student+Developer...;And+I'm+a+proud+Korean;Dokdo+is+Korean+territory!!!!)](https://git.io/typing-svg)
 
