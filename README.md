@@ -10,52 +10,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Gugo!;I'm+a+student+Developer...;And+I'm+a+proud+Korean;Dokdo+is+Korean+territory!!!!)](https://git.io/typing-svg)
 
 
-```python
-class Gugo():
-    
-  def __init__(self):
-    self.name = "Guhyunseung";
-    self.username = "Gugo-le";
-    self.age = "18";
-    self.location = "Hwaseong-si, South Korea";
-    
-  def __str__(self):
-    return self.name
-
-  if __name__ == '__main__':
-    me = Guhyunseung()
-    
-    
-class Success():
- 
-  def success(dedication, persistence, passion):
-    dedication += 1 # dedicate yourself
-    persistence += 1 # be persistent
-    passion = True # have passion
-    
-    if passion == True:
-      magic = dedication + persistence
-      return magic
-    
-    else:
-      magic = 0
-      return magic
-  
-```
-
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guhyunseung0718@gmail.com)](mailto:guhyunseung0718@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/_g.u.g.o__)](https://www.instagram.com/_g.u.g.o__/)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  ### 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
 
 ### 📊 Stats
 <p align="center">
