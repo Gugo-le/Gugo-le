@@ -7,7 +7,7 @@
 
 # 안녕하세요👋 구현승입니다
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Gugo!;I'm+a+student+Developer...;And+I'm+a+proud+Korean;Dokdo+is+Korean+territory!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Gugo!;And+I'm+a+proud+Korean;Dokdo+is+Korean+territory!!!!)](https://git.io/typing-svg)
 
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guhyunseung0718@gmail.com)](mailto:guhyunseung0718@gmail.com)
@@ -15,14 +15,6 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-### 📊 Stats
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Gugo-le&theme=react" alt="Gugo-le" />
-</p>
-<p align = "center">                                                                                               
-<img src = "https://github-readme-stats.vercel.app/api?username=Gugo-le&show_icons=true&theme=react"/>
-</p>  
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGugo-le&count_bg=%2379C83D&title_bg=%23555555&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=_G.U.G.O_&edge_flat=false)](https://hits.seeyoufarm.com)
